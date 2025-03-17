@@ -23,4 +23,4 @@ console.log(fullName);
 
 const userName = "Олександра";
 const payment = "300 гривень";
-console.log(alert(`Дякуємо, ${userName.slice(0,9)}о! До сплати ${payment}`));
+alert(`Дякуємо, ${userName.slice(0,9)}о! До сплати ${payment}`);
